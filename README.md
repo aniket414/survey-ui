@@ -1,5 +1,7 @@
 # Survey UI
 
+For more detail information on how to connect it with backend API, cloud hosting and running the docker container on K8s, please [click here](https://github.com/aniket414/swe645-software-development/tree/master/Assignment-3)!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
